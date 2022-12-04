@@ -30,7 +30,7 @@ const About = () => {
             <h5 className={classes.h5}>Our Team</h5>
             <p className={classes.about_text}>
               We are a team of enthusiastic developers currently pursuing
-              engineering from Indian Institute of Technology (Indian School of
+              enginerring from Indian Institute of Technology (Indian School of
               Mines) Dhanbad
             </p>
             <ul className={classes.ul}>
